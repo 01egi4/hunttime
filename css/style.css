@@ -369,9 +369,10 @@ p a:hover {
 }
 #footer div ul li {
 	display: block;
-	float: left;
+	/* float: left; */
 	list-style: none;
-	margin: 0 10px;
+	/* margin: 0 10px; */
+	margin: 0 auto;
 	padding: 0;
 	width: 44px;
 }
